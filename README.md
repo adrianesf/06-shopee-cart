@@ -16,3 +16,6 @@ Criar um carrinho de compras baseado no carrinho de compras da shopee, aonde o c
 | Deletar Item pelo Índice | Deletar um item por completo do carrinho pelo índice informado|
 | Remover Item | Subtrair uma quantidade do item ou remover por completo caso só tenho uma quantidade|
 | Exibir Carrinho | Exibir os itens do carrinho, com sua quantidade e subtotal, e exibir o valor total do carrinho|
+
+## Problema
+O subtotal não está sendo atualizado. Aparentemente ele assume o valor inicial e não atualiza.
